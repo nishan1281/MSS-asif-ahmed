@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link href="css/site.css" rel="stylesheet" type="text/css" />
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="scripts/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+
+
+
+<div class="panel panel-default">
+
+<div class="panel-heading"> <span class="glyphicon glyphicon-list-alt"></span><b>TESTIMONIALS<br>
+<span class="news-head">The Sweet Things People Say!</span></b></div>
+
+<div class="panel-body">
+
+<div class="row">
+
+
+
+<div class="col-xs-12">
+<ul class="demo1">
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/1.png" width="60" class="img-circle" /></td>
+<td>Their ability to explain complex legal issues in a simple but thorough manner allowed for me to rest assured... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/2.png" width="60" class="img-circle" /></td>
+<td>Friendly, patient, informative, competent - finally a law firm which provides excellent value for money but with... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/3.png" width="60" class="img-circle" /></td>
+<td>Middleton Solicitors assist me on all legal issues including business premises leases, terms & conditions... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/4.png" width="60" class="img-circle" /></td>
+<td>I use Middleton Solicitors for all legal issues for my door company and in my personal capacity... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/5.png" width="60" class="img-circle" /></td>
+<td>A personal service was given to both me and my partner from Middleton's when I was selling my house... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/1.png" width="60" class="img-circle" /></td>
+<td>I am very pleased with the service that Middleton Solicitors offer . They are professional friendly and a credit to the legal profession... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+<li class="news-item">
+<table cellpadding="4">
+<tr>
+<td><img src="images/2.png" width="60" class="img-circle" /></td>
+<td>Top Quality Solicitors, quick efficient and professional. I recommend them very highly... <br><a href="../testimonials.aspx" target="_parent">Read More</a></td>
+</tr>
+</table>
+</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        $(".demo1").bootstrapNews({
+            newsPerPage: 3,
+            autoplay: true,
+            pauseOnHover: true,
+            direction: 'up',
+            newsTickerInterval: 4000,
+            onToDo: function () {
+                //console.log(this);
+            }
+        });
+
+        $(".demo2").bootstrapNews({
+            newsPerPage: 4,
+            autoplay: true,
+            pauseOnHover: true,
+            navigation: false,
+            direction: 'down',
+            newsTickerInterval: 2500,
+            onToDo: function () {
+                //console.log(this);
+            }
+        });
+
+        $("#demo3").bootstrapNews({
+            newsPerPage: 3,
+            autoplay: false,
+
+            onToDo: function () {
+                //console.log(this);
+            }
+        });
+    });
+</script>
+   
+
+</body>
+</html>

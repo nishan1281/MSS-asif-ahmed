@@ -1,0 +1,87 @@
+﻿.glyphicon
+{
+    margin-right:4px !important; /*override*/
+}
+
+.pagination .glyphicon
+{
+    margin-right:0px !important; /*override*/
+}
+
+.pagination a
+{
+    color:#555;
+}
+
+.panel ul
+{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+
+.news-item
+{
+    padding:6px 4px;
+    margin:0px;
+   
+}
+.news-item table tr td:last-child{padding:0px 4%; font-family: 'Roboto', sans-serif; font-size:12px;}
+
+.news-head{color: #067dba;
+font-size: 12px;
+font-weight: normal;}
+
+.news-head span{color:#067dba; font-size:10px;}
+
+
+  .pagination {
+   
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+        .pagination>li {
+   
+   
+    top:0px;
+}
+        .news-item {
+    width:50%;
+    float:left;
+}
+.demo1 { background:#fff;
+}
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    line-height: 1.428571429;
+    text-decoration: none;
+    color: #fff;
+    background-color: #067dba;
+    border: 1px solid #ddd;
+    margin-left: -1px;
+}
+
+@media only screen and (max-width: 320px) {
+	
+
+.pagination>li {
+display: inline;
+position: relative;
+top: -365px;
+}
+
+
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	
+}
+@media only screen and (max-width:650px) {
+
+   .news-item {
+    float: left;
+    width: 100%;
+}
+}
