@@ -19,7 +19,7 @@
 
              	 <div class="col-md-6">
                 <div class="new_team_div">
-                    <img src="images/Alan_Minshall.jpg" class="img-ne" />
+                    <img src="Middleton_Images/OurTeam/alam_minshall.jpg" class="img-ne" />
                     <h4>Alam Minshall (Solicitor)</h4>
                     
                     <ul>
@@ -228,14 +228,14 @@
                 </div>
                          <div class="col-md-6">
                  <div class="new_team_div">
-                    <img src="http://middletonsolicitors.co.uk/En/Middleton_Images/OurTeam/rpr1ad0n05arqmmmgbr24j05171120140918284uygdbhez5zbhzy4tuk3itlp17112014050314mifoyy45fx2fji550ohnsfa117112014112431t10.JPG" class="img-ne" />
+                    <img src="http://middletonsolicitors.co.uk/En/Middleton_Images/OurTeam/img_dummy.jpg" class="img-ne" />
                     <h4>Donald Maloney(Solicitor) </h4>
                     <ul>
-                        <li><img src="../En/images/loc2.png" class="icon-New" />Commercial Litigation & Debt Recovery</li>
-                        <li><img src="../En/images/loc3.png" class="icon-New" />Viki.barry@middletonsolicitors.co.uk</li>
-                        <li><img src="../En/images/loc4.png" class="icon-New" />0151-242-0944</li>
-                        <li><img src="../En/images/loc5.png" class="icon-New" /><a href="vcf/Viki_Barry.vcf">Viki.Barry.vcf</a></li>
-                        <li><a href="#" class="big-link a_cls" data-reveal-id="Div15">View Profile</a></li>
+                        <li><img src="../En/images/loc2.png" class="icon-New" />Careless Driving, Drink Driving & Dangerous Driving</li>
+                        <li><img src="../En/images/loc3.png" class="icon-New" />donald.maloney@middletonsolicitors.co.uk</li>
+                        <li><img src="../En/images/loc4.png" class="icon-New" />0800 464 0010</li>
+                        <li><img src="../En/images/loc5.png" class="icon-New" /><a href="vcf/Donald_Maloney.vcf">Donald.Maloney.vcf</a></li>
+                        <li><a href="#" class="big-link a_cls" data-reveal-id="Div16">View Profile</a></li>
                     </ul>
                 </div>
                 </div>
@@ -493,11 +493,11 @@
 			<p><table>
                 <tr>
                     <td>About</td>
-                    <td>Michael heads the finance and administration at the firm and assists with conveyancing and sports matters.</td>
+                    <td>Michael heads Business Development, Finance & Admin for the Firm and acts for clients with Conveyance, Probate & Sports Matters.</td>
                 </tr>
                 <tr>
                     <td>Specialisations</td>
-                    <td>Sports Law, Residential & Commercial Property</td>
+                    <td>Conveyance, Probate, Contracts & Sports.</td>
                 </tr>
                 <tr>
                     <td>Contact </td>
@@ -644,4 +644,29 @@
 			   </table></p>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
-
+<div id="Div16" class="reveal-modal">
+			<h3>Donald Maloney(Solicitor)</h3>
+			<p><table>
+                <tr>
+                    <td>About</td>
+                    <td>Donald specialises in defending clients who are facing motor prosecutions throughout England & Wales. Donald’s experience is reflected in Donald’s pragmatic approach which has led to Donald obtaining successful outcomes in Court in the face of other solicitors advising clients to plead guilty.</td>
+                </tr>
+                <tr>
+                    <td>Specialisations</td>
+                    <td>Careless Driving, Drink Driving & Dangerous Driving</td>
+                </tr>
+                <tr>
+                    <td>Contact </td>
+                    <td>donald.maloney@middletonsolicitors.co.uk</td>
+                </tr>
+                <tr>
+                    <td>Details</td>
+                    <td>0800 464 0010</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><a href="vcf/Donald_Maloney.vcf">Donald.Maloney.vcf</a></td>
+                </tr>
+			   </table></p>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>

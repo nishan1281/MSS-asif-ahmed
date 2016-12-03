@@ -130,7 +130,7 @@
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-<li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+<li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -215,7 +215,7 @@
                         <p align="justify">The offence of drink driving is committed if a person drives or attempts to drive a motor vehicle on a public road, after consuming so much alcohol that the proportion of alcohol in his breath, blood or urine exceeds the prescribed limit.</p>
                         <h2>SANCTIONS THAT CAN BE IMPOSED</h2>
                         <p align="justify">The sanctions that can be imposed are a mandatory disqualification for a minimum of 12 months, up to 6 months in prison and a financial penalty dependent on your means.</p>                      
-                        <p align="justify">If a second offence is committed within a three-year period of the original offence, the starting point for the second offence is not only a disqualification is 36 months minimum but the courts must consider custody as an option in the event of pleading guilty or being found guilty after a trial.</p>
+                        <p align="justify">If a second offence is committed within a three-year period of the original offence, the starting point for the second offence is not only a disqualification of 36 months minimum but the courts must consider custody as an option in the event of pleading guilty or being found guilty after a trial.</p>
                         <p align="justify">If you need free initial advice in respect of all motoring offences call Middleton Solicitors Driving Defence Team for free on 0800 464 0010.</p>
                      
                      <div class="clearfix"></div>
@@ -228,7 +228,7 @@
                     
                     </div>
                 </div>
-                <div class="col-sm-4 pull-right">
+                <div class="col-sm-3 pull-right">
                     <div class="categories">
 
                         <!-- Start links -->
@@ -246,11 +246,12 @@
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                                <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a>
+                        <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                         <ul>
                         <li><a href="careless-driving.aspx" title="Careless Driving" >Careless Driving</a></li>	
                         <li><a href="dangerous-driving.aspx" title="Dangerous Driving">Dangerous Driving</a></li>
                         <li><a href="drink-driving.aspx" title="Drink Driving"  class="seractive01">Drink Driving</a></li>
+                        <li><a href="speeding.aspx" title="Speeding">Speeding</a></li>
                         </ul>
                     </li>                      
                                 
@@ -331,7 +332,8 @@
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                         <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                        <li><a href="driving-difence.aspx" title="Driving Difence" class="seractive">Driving Difence</a></li>
+                        <li><a href="driving-difence.aspx" title="Motor Offences" class="seractive">Motor Offences</a></li>
+                       
 
 						<li><a href ="faq.aspx" title ="FAQ">FAQ</a></li>	
 					</ul> 

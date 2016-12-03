@@ -125,7 +125,7 @@
                                  <li><a href="commercial-and-residential-leases.aspx" title="Commercial and Residential Leases">Commercial and Residential Leases</a></li>								
                                  <li><a href="debt-recovery.aspx" title="Debt Recovery">Debt Recovery</a></li>
                                  <li><a href="consignment.aspx" title="Consignment"> Consignment</a></li>
-                                  <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                                   <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -271,7 +271,7 @@
                                  <li><a href="commercial-and-residential-leases.aspx" title="Commercial and Residential Leases">Commercial and Residential Leases</a></li>								
                                  <li><a href="debt-recovery.aspx" title="Debt Recovery">Debt Recovery</a></li>
                                  <li><a href="consignment.aspx" title="Consignment"> Consignment</a></li>	
-                                <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                                   <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li> 
 					</ul>
 						</div>
                         <!-- End links -->
@@ -316,7 +316,7 @@
                                  <li><a href="commercial-and-residential-leases.aspx" title="Commercial and Residential Leases">Commercial and Residential Leases</a></li>								
                                  <li><a href="debt-recovery.aspx" title="Debt Recovery">Debt Recovery</a></li>
                                  <li><a href="consignment.aspx" title="Consignment"> Consignment</a></li>
-                        <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>	
+                          <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li> 
 					</ul> 
 					
                 </div>

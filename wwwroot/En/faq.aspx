@@ -72,7 +72,7 @@
                                 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
                                  <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
                                  <li><a href="debt-recovery.aspx" title="Debt Recovery">Debt Recovery</a></li>
-                                <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                                  <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                                 <%-- <li><a href="consignment.aspx" title="Consignment"> Consignment</a></li>	--%>
 
                                 

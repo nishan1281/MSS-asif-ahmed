@@ -130,7 +130,7 @@
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-<li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+<li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -231,7 +231,7 @@
                     
                 </div>
             </div>
-            <div class="col-sm-4 pull-right">
+            <div class="col-sm-3 pull-right">
                 <div class="categories">
 
                     <!-- Start links -->
@@ -249,11 +249,12 @@
                     <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 					<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 					<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                            <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a>
+                     <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                         <ul>
                         <li><a href="careless-driving.aspx" title="Careless Driving">Careless Driving</a></li>	
                         <li><a href="dangerous-driving.aspx" title="Dangerous Driving" class="seractive01">Dangerous Driving</a></li>
                         <li><a href="drink-driving.aspx" title="Drink Driving">Drink Driving</a></li>
+                        <li><a href="speeding.aspx" title="Speeding">Speeding</a></li>
                         </ul>
                     </li>
                  
@@ -335,7 +336,7 @@
                     <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                     <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 					<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                    <li><a href="driving-difence.aspx" title="Driving Difence" class="seractive">Driving Difence</a></li>                    
+                    <li><a href="driving-difence.aspx" title="Motor Offences" class="seractive">Motor Offences</a></li>                   
 
 					<li><a href ="faq.aspx" title ="FAQ">FAQ</a></li>	
 				</ul> 

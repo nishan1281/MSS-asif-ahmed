@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="military-law.aspx.cs" Inherits="military_law1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="speeding.aspx.cs" Inherits="En_speeding" %>
 <%@ Register Src ="~/usercontrol/service_enquiry_popup.ascx" TagName ="popup" TagPrefix ="uc1" %>
 <%@ Register Src ="~/usercontrol/Middleton_Newsletter.ascx" TagName ="newsletter" TagPrefix ="uc2" %>
 <%@ Register Src ="~/usercontrol/Middleton_Trust_Law_View.ascx" TagName ="trustview" TagPrefix ="uc3" %>
@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
-    <title>Military Law</title>
+    <title>Speeding</title>
     <meta name="description" content="Middleton Solicitors Company Liverpool, offering PPI Recovery solutions to the UK people to claim. We can claim your Payment protection Insurance and Penalty over limit and late payment credit card charges." />
     <meta name="keywords" content="ppi recovery company liverpool, ppi claims liverpool, payment protection insurance recovery services UK, best ppi recovery companies in liverpool, ppi recovery, ppi claim" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -106,7 +106,7 @@
             <li>
                 <a href="#" title="Services"  class="active1">Services</a>
                 <div class="menu_dropdown_block full_width">
-                    <div class="md-container">
+               <div class="md-container">
                         <div class="column span4 bordered">
                             <div class="content">
                                 <h2 class="menuh">Specialist Areas</h2>
@@ -116,6 +116,7 @@
 <li><a href="military-law.aspx" title="Military Law">Military Law</a></li>
 <li><a href="personal-injury-claim.aspx" title="Personal Injury">Personal Injury Claims</a></li>
 <li><a href="employment.aspx" title="Employment">Employment</a></li>
+                                    <li><a href="recovering-payment-protection-insurance.aspx" title="Recovering Payment Protection Insurance ">Recovering Payment Protection Insurance </a></li>
                        </ul>
                             </div>
                         </div>
@@ -124,12 +125,12 @@
                             <div class="content">
                                
                               <ul>
-<li><a href="recovering-payment-protection-insurance.aspx" title="Recovering Payment Protection Insurance ">Recovering Payment Protection Insurance </a></li>
+
 <li><a href="sports-law.aspx" title="Sports Law">Sports Law</a></li>   
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                                  <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+<li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -209,56 +210,28 @@
 			<div class="row">
                 <div class="col-sm-8">
                     <div class="sideArea">
-							 <h2>Military Law</h2>
-                        <p><img src="images/middleton-sub.jpg" class="img-responsive" alt=""></p>
-                        <p align="justify">“Middleton Solicitors Military Law Department has been set up to help and support Military Personnel both past and present, and their families, who have suffered personal injury whilst serving in the Armed Forces".</p>
-                        <p align="justify">We are holding free advice days in your area soon and details for registering are on the right of the page. “We are here to help you!</p>
-                        <span class="hd-quite">Types of Military Claims</span>
-                      <ul class="service_li 1st-div">
-                           <li></li>
-                            <li>Military Training Accidents</li>
-                            <li>Military Combat Accidents</li>
-                            <li>Inadequate/Faulty Equipment</li>
-                            <li>Non-Freezing Cold Injuries</li>
-                          <li>Post Traumatic Stress Disorder</li>
-                          <li>Armed Forces Compensation Scheme</li>
-                          <li>Road Traffic Accidents</li>
-                          <li>Fatal Accidents/Inquests</li>
-                            
-                	 </ul>
-                     <div class="clearfix"></div>
-                        <br />
-                      <!-- <p><span class="hd-quite">REGISTER FOR OUR FREE ADVICE DAYS</span><br />
-
-For your FREE Consultation and to register for our 
-
-FREE Advice Days please fill out the form on this 
-
-Our specialist team will be holding FREE ADVICE 
-
-The Legacy and Crown Hotel, Harnham Road, 
-
-page or call
-
-0151236 5599 <br /><br />
-
-Our specialist team will be holding FREE ADVICE 
-
-The Legacy and Crown Hotel, Harnham Road, 
-
-DAYS at 
-
-Salisbury, SP2 8JQ</p>
-                        <p>Thus the Advice Days are as follows – Thursday and Friday, 25th and 26th February 2016 between the hours of 9am and 6pm.</p> -->
+							 <h2>Speeding</h2>
+                        <p><img src="images/speeding.jpg" class="img-responsive" alt=""></p>
+                        <p align="justify">Driving with excess speed is a summary offence.  Upon conviction, the courts must endorse your driving licence and 
+                                           impose 3 to 6 penalty points and or impose a discretionary disqualification from driving.  
+                                            Any period of disqualification is discretionary meaning that the courts can disqualify for as long as they think fit.</p>
+                        <span class="hd-quite" style="line-height:2;">Here are examples of driving defences which may be argued depending on the facts of the matter:</span>
+                                 <ol class="service_li" type="1" style="line-height:2;">
+                                     <li>Factual defence - I was not speeding.</li>
+                                     <li>Signage – I was unable to identify the speed limit due to the lack of speed signs.</li>
+                                     <li>The speed detection device used to check my speed was not operating properly or operated correctly by the operator.</li>
+                                     <li>The case is flawed because it has not been commenced properly because the Notice of Intended Prosecution either was not given verbally at the time 
+                                         of the offence at the roadside or served within fourteen days of the alleged offence on the registered keeper.</li>
+                                     <li>The vehicle caught on camera speeding is not my vehicle and I can prove it.</li>
+                                 </ol>
+                         <p align="justify">For free initial advice call the Driving Defence Team on 0800 464 0010.</p>
+                        
                       
-    <p><span class="hd-quite">REGISTER FOR OUR FREE ADVICE DAYS</span> </p>     
-                        <p align="justify">To register for our FREE Advice Days and your FREE Consultation please fill out the form on the right or call 0151 236 5599. Our specialist team will be holding FREE ADVICE sessions at The Legacy and Crown Hotel, Harnham Road,Salisbury, SP2 8JQ on</p>
-                        <p>Thursday 25thFebruary 2016, 9am – 6pm and </p>
-                        <p>Friday 26th February 2016,9am - 6pm  </p>            
+                     <div class="clearfix"></div>
+                        <br />                                                    
 
                       <div class="wrap">
                           <uc1:popup ID="popup1" runat="server"/>
-
 
 </div>
                     
@@ -266,7 +239,7 @@ Salisbury, SP2 8JQ</p>
                     
                     </div>
                 </div>
-                <div class="col-sm-4 pull-right">
+                <div class="col-sm-3 pull-right">
                     <div class="categories">
 
                         <!-- Start links -->
@@ -276,15 +249,23 @@ Salisbury, SP2 8JQ</p>
                             <ul class="list-unstyled">
                                <li><a href="commercial-law.aspx" title="Commercial Law" >Commercial Law</a></li>
                         <li><a href="debt-recovery.aspx" title="Debt Recovery">Debt Recovery</a></li>
-                        <li><a href="military-law.aspx" title="Military Law" class="seractive01">Military Law</a></li>	
+                        <li><a href="military-law.aspx" title="Military Law">Military Law</a></li>	
                     	<li><a href="personal-injury-claim.aspx" title="Personal Injury" >Personal Injury Claims</a></li>
                         <li><a href="recovering-payment-protection-insurance.aspx" title="Recovering Payment Protection Insurance "  >Recovering Payment Protection Insurance </a></li>
                         <li><a href="sports-law.aspx" title="Sports Law">Sports Law</a></li>         
                         <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>          
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
-						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>  
-                         <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
+                        <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a>
+                        <ul>
+                        <li><a href="careless-driving.aspx" title="Careless Driving">Careless Driving</a></li>	
+                        <li><a href="dangerous-driving.aspx" title="Dangerous Driving">Dangerous Driving</a></li>
+                        <li><a href="drink-driving.aspx" title="Drink Driving">Drink Driving</a></li>
+                        <li><a href="speeding.aspx" title="Speeding" class="seractive01">Speeding</a></li>
+
+                        </ul>
+                    </li>
                                 
                               
                             </ul>
@@ -301,8 +282,7 @@ Salisbury, SP2 8JQ</p>
                         
                         <!-- End links -->
                         <div class="links">
-                        <h2>Register for our free advice days</h2>
-                            <p>For your free consultation and to register for our free advice days, please fill out the form below or telephone.</p>
+                        <h2>Contact Us</h2>
          
 
                <p>
@@ -356,7 +336,7 @@ Salisbury, SP2 8JQ</p>
                     <ul class="list-unstyled">
                     	 <li><a href="commercial-law.aspx" title="Commercial Law">Commercial Law</a></li>
                         <li><a href="debt-recovery.aspx" title="Debt Recovery">Debt Recovery</a></li>
-                        <li><a href="military-law.aspx" title="Military Law" class="seractive">Military Law</a></li>	
+                        <li><a href="military-law.aspx" title="Military Law">Military Law</a></li>	
                     	<li><a href="personal-injury-claim.aspx" title="Personal Injury" >Personal Injury Claims</a></li>
                         <li><a href="recovering-payment-protection-insurance.aspx" title="Recovering Payment Protection Insurance "  >Recovering Payment Protection Insurance </a></li>
                         <li><a href="sports-law.aspx" title="Sports Law">Sports Law</a></li>         
@@ -364,7 +344,8 @@ Salisbury, SP2 8JQ</p>
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                         <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                       <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+                       <li><a href="driving-difence.aspx" title="Motor Offences" class="seractive">Motor Offences</a></li>
+
 						<li><a href ="faq.aspx" title ="FAQ">FAQ</a></li>	
 					</ul> 
 					

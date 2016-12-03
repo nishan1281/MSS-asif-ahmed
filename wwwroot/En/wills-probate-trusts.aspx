@@ -133,7 +133,7 @@
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                                  <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+   <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                         <li><a href="wills-probate-trusts.aspx" class="seractive01" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                                <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                          <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
 						
                             </ul>
 						</div>
@@ -335,7 +335,7 @@
                         <li><a href="wills-probate-trusts.aspx" class="seractive" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                        <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                          <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                         <li><a href ="faq.aspx" title ="FAQ">FAQ</a></li>	
 					</ul> 
 					

@@ -37,7 +37,7 @@ Please email with any enquires; online quotations are available for sales and pu
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                         <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li> 
-                        <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>                                                                         
+                          <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>                                                                     
 					</ul>
 						</div>
                     </aside>

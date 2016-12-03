@@ -134,7 +134,7 @@
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                                  <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+   <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -219,36 +219,20 @@
                         <p><img src="images/service12.jpg" class="img-responsive" alt=""></p>
 						
                         
-<p align="justify">If you live in rented housing, you have a legal right to ensure that the living conditions are kept in a 
-
-state of good repair.  However, it is a fact that a lot of rented property, particularly those run by 
-
-Councils and Housing Association are not kept to adequate standards.  For example, properties may 
-
-suffer from rising or penetrating damp, caused from problems with the building work on the 
-
-property.  This not only leads to unsightly parts of your home, but can also lead to health problems, 
-
-particularly in small children.  If this sounds familiar, and you have reported the issues to your 
-
-landlord but they have not done anything about it, you may have a claim against them for the 
-
-repairs and compensation.<br /><br />
+<p align="justify">If you live in rented housing, you have a legal right to ensure that the living conditions are kept in a state of good repair. 
+     However, it is a fact that a lot of rented property, particularly those run by Councils and Housing Association are not kept to adequate standards.  
+    For example, properties may suffer from rising or penetrating damp, caused from problems with the building work on the property. 
+     This not only leads to unsightly parts of your home, but can also lead to health problems, particularly in small children.  
+    If this sounds familiar, and you have reported the issues to your landlord but they have not done anything about it,
+     you may have a claim against them for the repairs and compensation.<br /><br />
 
 
 
-Middleton Solicitors run such claims on a no win, no fee basis; if your claim is unsuccessful, you will
-
-not be left with any fees to pay, meaning there is no risk to you.  Also, we do not take any fees 
-
-upfront meaning that if we choose not to proceed with your claim following our initial review, you 
-
-will not have lost anything.<br /><br />
+Middleton Solicitors run such claims on a no win, no fee basis; if your claim is unsuccessful, you will not be left with any fees to pay, meaning there is no risk to you. 
+Also, we do not take any fees upfront meaning that if we choose not to proceed with your claim following our initial review, you will not have lost anything.<br /><br />
 
 
-If you are having problems with your home and your landlord is doing nothing about it, contact us 
-
-today for your free consultation.<br /><br /></p>
+If you are having problems with your home and your landlord is doing nothing about it, contact us today for your free consultation.<br /><br /></p>
 						                   
 					   <span class="hd-quite"><b>Free Seminars</b></span><br />
 					   <b>For a consultation</b><br />
@@ -287,7 +271,7 @@ today for your free consultation.<br /><br /></p>
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" class="seractive01" title="Housing Disrepair">Housing Disrepair</a></li>
-                                <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                          <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
                             </ul>
 						</div>
                         <!-- End links -->
@@ -333,7 +317,7 @@ today for your free consultation.<br /><br /></p>
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                         <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" class="seractive" title="Housing Disrepair">Housing Disrepair</a></li>
-                        <li><a href="driving-difence.aspx" title="Driving Difence">Driving Difence</a></li>
+                          <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
 						<li><a href ="faq.aspx" title ="FAQ">FAQ</a></li></ul> 
 					
                 </div>
