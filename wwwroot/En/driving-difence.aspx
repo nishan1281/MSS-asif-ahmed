@@ -217,29 +217,21 @@
                 <div class="col-sm-8">
                     <div class="sideArea">
 							 <h2>Motor Offences</h2>
-                        <p><img src="images/driving-difence.jpg" class="img-responsive" alt=""></p>
+                        <p><img src="images/motor-offence.jpg" class="img-responsive" alt=""></p>
 						
+                        <h4><b>ABOUT US</b></h4>   <br />
                         
-<p align="justify">Middleton Solicitors Driving Defence Team aim is to provide our clients with the best advice tailored to client’s individual 
-    demands of their particular matter. The Driving Defences Team is led by Donald Maloney who has worked at some of the leading practices both in Liverpool and Manchester.<br /><br />
+<p align="justify">Middleton Solicitors Driving Defence Team aim to provide excellent advice tailored to clients individual needs.<br /><br />
 
+The Driving Defence Team is led by Donald Maloney.  Donald has a wealth of criminal litigation experience having worked for some of the country’s leading motoring offence firms.<br /><br />
 
+Donald has proven beyond doubt that he is a talented lawyer, successfully defending clients even in seemingly unwinnable cases.<br /><br />
 
-The sole aim of the Driving Defences Team is to provide drivers with “a solution to their motoring problems”. 
-     Location is not a problem as we represent clients throughout England and Wales. <br /><br />
+Our Driving Defence Team will provide expert advice and assistance in respect of all motoring offences.<br /><br />
 
-
-Middleton Solicitors Driving Defence Team provides free initial advice and assistance in respect of the all motoring offences faced by motorists not just the offences highlighted on our website.
-
-<br /><br />
-
-    If you need free initial advice and assistance call Middleton Solicitors Driving Defence Team for free on 0800 464 0010.<br /><br />
+If you need free initial advice in respect of all motoring offences call Middleton Solicitors Driving Defence Team for free on 0800 464 0010.<br /><br />
 </p>
-						                   
-					   
-                    
-                    
-                    
+						                                      
                     </div>
                 </div>
                 <div class="col-sm-3 pull-right">
