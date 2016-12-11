@@ -1,0 +1,23 @@
+ public void Disp_Banner()
+    {
+        if (con.State == System.Data.ConnectionState.Open)
+            con.Close();
+        icon.Open();
+        cmd.Connection = con;
+        cmd.CommandType = CommandType.StoredProcedure;
+        cmd.CommandText = "Sp_Retrive_Home_Banner";
+        cmd.Parameters.Clear();
+        DataSet dset = new DataSet();
+        SqlDataAdapter dpt = new SqlDataAdapter(cmd);
+        dpt.Fill(dset);
+        outerRep.DataSource = dset;
+        outerRep.DataBind();
+    }
+	
+	
+	copy and paste in index.ascx.cs
+	
+	modification : 
+	  icon.Open(); 
+	  
+	  this option deleted to run it in local server
