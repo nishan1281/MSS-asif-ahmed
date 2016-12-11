@@ -2475,4 +2475,23 @@ margin: 0px;
         {
             line-height: 2;
         }
-     
+		.inputspacing
+		{
+			margin-bottom:10px;
+		}
+ #txt_Forename::-webkit-input-placeholder:after {
+   content:"*";
+   color:red;
+   font-size:1.15em;
+}
+
+#txt_Forename::-moz-placeholder:after {
+     content:"*";
+     color:red;
+     font-size:1.15em;
+ }
+ #txt_Forename:-ms-input-placeholder:after {     
+     content:"*";
+     color:red;
+     font-size:1.15em;
+}

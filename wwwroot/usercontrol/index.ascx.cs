@@ -16,6 +16,8 @@ public partial class usercontrol_index : System.Web.UI.UserControl
 {
     SqlConnection con = new SqlConnection(System.Web.Configuration.WebConfigurationManager.ConnectionStrings["Connection"].ConnectionString);
     SqlCommand cmd = new SqlCommand();
+    private object icon;
+
     protected void Page_Load(object sender, EventArgs e)
     {
         Disp_Banner();
@@ -53,7 +55,6 @@ public partial class usercontrol_index : System.Web.UI.UserControl
     {
         if (con.State == System.Data.ConnectionState.Open)
             con.Close();
-        con.Open();
         cmd.Connection = con;
         cmd.CommandType = CommandType.StoredProcedure;
         cmd.CommandText = "Sp_Retrive_Home_Banner";
