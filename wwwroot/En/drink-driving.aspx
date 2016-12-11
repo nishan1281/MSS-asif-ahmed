@@ -216,7 +216,7 @@
                         <h2>SANCTIONS THAT CAN BE IMPOSED</h2>
                         <p align="justify">The sanctions that can be imposed are a mandatory disqualification for a minimum of 12 months, up to 6 months in prison and a financial penalty dependent on your means.</p>                      
                         <p align="justify">If a second offence is committed within a three-year period of the original offence, the starting point for the second offence is not only a disqualification of 36 months minimum but the courts must consider custody as an option in the event of pleading guilty or being found guilty after a trial.</p>
-                        <p align="justify">If you need free initial advice in respect of all motoring offences call Middleton Solicitors Driving Defence Team for free on 0800 464 0010.</p>
+                        <p align="justify">If you have been caught drink driving and need free legal advice and help from a drink driving solicitor call us on 0800 464 0010</p>
                      
                      <div class="clearfix"></div>
                         <br />                        
@@ -269,36 +269,72 @@
                         <!-- Start links -->
                         
                         <!-- End links -->
-                        <div class="links">
-                        <h2>Contact Us</h2>
-         
-
-               <p>
-               <input id="txt_Name" name="" type="text" placeholder="Name" class="form-control">
-               
-               </p>
-               <p><input id="txt_Email" type="text" placeholder="Email Address" class="form-control">
-               
-               </p>
-                             <p>
-                                 <input id="txt_Mobile" type="text" placeholder="Phone" class="form-control">
-                                  
-                             </p>
-                      <p><textarea id="txt_Message" placeholder="Message" class="form-control"></textarea>
-                          
-                      </p>
-               <p>
-              </p>
-                <p>
+                       <div class="links">
                     
-                <input id="btnSubmit" type="button"  value="Submit" class="btn btn-default pull-right"/>
-               </p>
-               
-               
+            <p align="justify"><b>Please complete the new enquiry form below and a member of our driving defence team will contact you.</b></p>
+           
+                <input id="txt_Forename" name="" type="text" placeholder="Forename*" class="form-control" style="margin-bottom:3px;">                
+          
+
+          
+                <input id="txt_Surname" name="" type="text" placeholder="Surname*" class="form-control" style="margin-bottom:3px;">              
+           
+
+            
+                <input id="txt_Email" type="text" placeholder="Email Address*" class="form-control" style="margin-bottom:3px;">   
+           
+            
+                <input id="txt_Mobile" type="text" placeholder="Phone*" class="form-control" style="margin-bottom:4px;">                                 
+            
+                <p> </p>
+                <p>Alleged Offence<span style="color:red">*</span>
+                    <select name="Offences" class="form-control">
+                        <option value="speeding">Speeding</option>
+                        <option value="drunk_charge">Drink Driving/Drunk in Charge of a Vehicle</option>
+                        <option value="drug_driving">Drug Driving</option>
+                        <option value="using_mobile">Using a Mobile Phone</option>
+                        <option value="without_insurance">Driving Without Insurance</option>
+                        <option value="disqualified">Driving Whilst Disqualified</option>
+                        <option value="stop_report">Failing to Stop/Failing to Report</option>
+                        <option value="identity">Failing to Identify a Driver</option>
+                        <option value="specimen">Failing to provide a Specimen</option>
+                        <option value="dangerous_careless">Dangerous/Careless Driving</option>
+                        <option value="totting">Penalty Points (Totting Up)</option>
+                        <option value="licence_medical">Removal of Licence (Medical Grounds)</option>
+                        <option value="other_ohter">Other</option>
+                    </select>        
+            </p>
+
+          
+            <textarea id="txt_Message" rows="5" placeholder="Your Question" class="form-control" style="margin-bottom:2px;"></textarea>
+            <p>How did you hear about us?<span style="color:red">*</span>
+                    <select name="source" class="form-control">
+                         <option value="google_search">Google/Online Search</option>
+                         <option value="social_media">Social Media</option>
+                         <option value="press">Press</option>
+                         <option value="advertisement">Advertisement</option>
+                        <option value="rec_friend">Recommended by a friend</option>
+                        <option value="event_exhibit">Event/Exhibition</option>
+                        <option value="ex_client">Existing Client</option>
+                        <option value="other_source">other</option>
+                    </select>
+            </p>
+            <p align="justify">
+                By submitting your details you are providing your consent to receive future emails, hints and updates about our services.
+            </p>
+            <p align="justify">
+                <input type="checkbox" name="contacting_other_way" value="other_way"> Please tick here if you do not want us to contact you in any other way (including post, email, SMS or telephone) with
+                information about our services which we feel may be of interest to you.
+            </p>
+           
+
+            <p>        
+            <input id="btnSubmit" type="button"  value="Submit" class="btn btn-default pull-right"/>
+            </p>
+              
             
          
 </div>
-
                     </div>
 				</div>
             </div>
