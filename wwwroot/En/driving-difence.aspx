@@ -14,7 +14,7 @@
         <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
-         <title>Motor Offences – Middleton Solicitors UK</title>
+         <title>Driving Defences – Middleton Solicitors UK</title>
          
           <meta name="description" content="We offer a business and commercial debt recovery service to the businesses in liverpool UK. Our commercial debt recovery solicitors team acts quickly and efficiently to recover your Debt." />
     <meta name="keywords" content="debt recovery lawyers liverpool, debt recovery solicitors liverpool ,debt collection solicitors liverpool, debt recovery lawyers UK, debt recovery solicitors UK, debt collection solicitors UK, best debt recovery solicitors in liverpool." />
@@ -58,7 +58,16 @@
         
 	<!-----------Back To Top End----------------->
     
-    
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88835329-1', 'auto');
+  ga('send', 'pageview');
+
+</script>      
 </head>
 
 <body>
@@ -135,7 +144,7 @@
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-<li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+<li><a href="driving-difence.aspx" title="Driving Defences">Driving Defences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -216,7 +225,7 @@
 			<div class="row">
                 <div class="col-sm-8">
                     <div class="sideArea">
-							 <h2>Motor Offences</h2>
+							 <h2>Driving Defences</h2>
                         <p><img src="images/motor-offence.jpg" class="img-responsive" alt=""></p>
 						
                         <h4><b>ABOUT US</b></h4>   <br />
@@ -252,7 +261,7 @@ If you need free initial advice in respect of all motoring offences call Middlet
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx"  title="Housing Disrepair">Housing Disrepair</a></li>
-                        <li><a href="driving-difence.aspx" class="seractive01" title="Motor Offences">Motor Offences</a>
+                        <li><a href="driving-difence.aspx" class="seractive01" title="Driving Defences">Driving Defences</a>
                             <ul>
                             <li><a href="careless-driving.aspx" title="Careless Driving">Careless Driving</a></li>	
                             <li><a href="dangerous-driving.aspx" title="Dangerous Driving">Dangerous Driving</a></li>
@@ -305,7 +314,7 @@ If you need free initial advice in respect of all motoring offences call Middlet
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                         <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                        <li><a href="driving-difence.aspx" class="seractive" title="Motor Offences">Motor Offences</a></li>
+                        <li><a href="driving-difence.aspx" class="seractive" title="Driving Defences">Driving Defences</a></li>
 
 						<li><a href ="faq.aspx" title ="FAQ">FAQ</a></li></ul> 
 					

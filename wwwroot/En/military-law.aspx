@@ -55,7 +55,16 @@
     </script>
 
     <!-----------Back To Top End----------------->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-88835329-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  
 </head>
 <body>
       <form id="form1" runat="server">
@@ -129,7 +138,7 @@
 <li><a href="commercial-and-residential-leases.aspx" title="Residential and Commercial Property">Residential and Commercial Property</a></li>								
 <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts">Wills, Probate and Trusts</a></li>								
 <li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                                  <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+                                  <li><a href="driving-difence.aspx" title="Driving Defences">Driving Defences</a></li>
                              </ul>
                             </div>
                         </div>
@@ -284,7 +293,7 @@ Salisbury, SP2 8JQ</p>
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>
 						<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>  
-                         <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+                         <li><a href="driving-difence.aspx" title="Driving Defences">Driving Defences</a></li>
                                 
                               
                             </ul>
@@ -364,7 +373,7 @@ Salisbury, SP2 8JQ</p>
                         <li><a href="wills-probate-trusts.aspx" title="Wills, Probate and Trusts" >Wills, Probate and Trusts</a></li>                           
                         <li><a href="employment.aspx" title="Employment">Employment</a></li>								
 						<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
-                       <li><a href="driving-difence.aspx" title="Motor Offences">Motor Offences</a></li>
+                       <li><a href="driving-difence.aspx" title="Driving Defences">Driving Defences</a></li>
 						<li><a href ="faq.aspx" title ="FAQ">FAQ</a></li>	
 					</ul> 
 					
