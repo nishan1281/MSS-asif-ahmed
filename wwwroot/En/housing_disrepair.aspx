@@ -67,7 +67,7 @@
   ga('create', 'UA-88835329-1', 'auto');
   ga('send', 'pageview');
 
-</script>     
+</script>    
 </head>
 
 <body>

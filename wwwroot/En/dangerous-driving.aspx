@@ -21,6 +21,27 @@
 <link href="css/font-awesome.css" rel="stylesheet">
 <link href="css/flexslider.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+    <style>
+
+        @media only screen and (max-width: 750px) 
+{
+    .list_unstile
+    {
+         list-style-type:none;
+         margin-right:7%;
+
+    }
+}
+               @media only screen and (max-width: 475px) 
+{
+    .list_unstile
+    {
+         list-style-type:none;
+         margin-right:12%;
+
+    }
+}
+    </style>
 <!--[if IE]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <![endif]-->
@@ -259,7 +280,7 @@
 					<li><a href="employment.aspx" title="Employment">Employment</a></li>								
 					<li><a href="housing_disrepair.aspx" title="Housing Disrepair">Housing Disrepair</a></li>
                      <li><a href="driving-difence.aspx" title="Driving Defences">Driving Defences</a></li>
-                        <ul>
+                        <ul class="list_unstile">
                         <li><a href="careless-driving.aspx" title="Careless Driving">Careless Driving</a></li>	
                         <li><a href="dangerous-driving.aspx" title="Dangerous Driving" class="seractive01">Dangerous Driving</a></li>
                         <li><a href="drink-driving.aspx" title="Drink Driving">Drink Driving</a></li>

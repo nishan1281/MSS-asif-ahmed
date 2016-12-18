@@ -2495,3 +2495,26 @@ margin: 0px;
      color:red;
      font-size:1.15em;
 }
+ 
+        @media only screen and (max-width: 750px) 
+{
+    .list_unstile
+    {
+         list-style-type:none;
+         margin-right:7%;
+
+    }
+}
+               @media only screen and (max-width: 300px) 
+{
+    .list_unstile
+    {
+         list-style-type:none;
+         margin-right:20%;
+
+    }
+}
+.grid25>ul>li>ul .list_unstile {
+    list-style-type:none;
+
+}
